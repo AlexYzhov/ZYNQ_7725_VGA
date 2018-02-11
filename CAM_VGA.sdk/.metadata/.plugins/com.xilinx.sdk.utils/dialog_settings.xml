@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="E:\Proj_ZYNQ\CAM_VGA\CAM_VGA.sdk\CAM_PS_Configure\Debug" key="bootgen_files_selection"/>
+	<item value="E:\Proj_ZYNQ\CAM_VGA\CAM_VGA.sdk\FSBL\Debug" key="zynq_flash_files_selection"/>
+	<item value="E:\Proj_ZYNQ\CAM_VGA\CAM_VGA.sdk\FSBL\Debug" key="last_stored_selection"/>
+</section>

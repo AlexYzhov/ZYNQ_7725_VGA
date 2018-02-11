@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat Feb  3 19:05:21 2018
+# Process ID: 8456
+# Current directory: E:/Proj_ZYNQ/CAM_VGA/CAM_VGA.runs/clk_gen_synth_1
+# Command line: vivado.exe -log clk_gen.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_gen.tcl
+# Log file: E:/Proj_ZYNQ/CAM_VGA/CAM_VGA.runs/clk_gen_synth_1/clk_gen.vds
+# Journal file: E:/Proj_ZYNQ/CAM_VGA/CAM_VGA.runs/clk_gen_synth_1\vivado.jou
+#-----------------------------------------------------------
+source clk_gen.tcl -notrace

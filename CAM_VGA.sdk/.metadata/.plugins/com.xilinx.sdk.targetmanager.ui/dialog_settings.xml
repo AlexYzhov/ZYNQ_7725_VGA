@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="CAM_PS_Configure_wrapper_hw_platform_0-bmmFile"/>
+	<item value="CAM_PS_Configure_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="Local" key="CAM_PS_Configure_wrapper_hw_platform_0-target"/>
+	<item value="Auto Detect" key="CAM_PS_Configure_wrapper_hw_platform_0-device"/>
+	<item value="false" key="CAM_PS_Configure_wrapper_hw_platform_0-partial_bit"/>
+	<item value="CAM_PS_Configure_wrapper.bit" key="CAM_PS_Configure_wrapper_hw_platform_0-bitFile"/>
+</section>

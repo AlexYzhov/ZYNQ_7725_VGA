@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat Feb  3 18:18:32 2018
+# Process ID: 1496
+# Current directory: E:/Proj_ZYNQ/CAM_VGA/CAM_VGA.runs/CAM_PS_Configure_processing_system7_0_0_synth_1
+# Command line: vivado.exe -log CAM_PS_Configure_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CAM_PS_Configure_processing_system7_0_0.tcl
+# Log file: E:/Proj_ZYNQ/CAM_VGA/CAM_VGA.runs/CAM_PS_Configure_processing_system7_0_0_synth_1/CAM_PS_Configure_processing_system7_0_0.vds
+# Journal file: E:/Proj_ZYNQ/CAM_VGA/CAM_VGA.runs/CAM_PS_Configure_processing_system7_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source CAM_PS_Configure_processing_system7_0_0.tcl -notrace

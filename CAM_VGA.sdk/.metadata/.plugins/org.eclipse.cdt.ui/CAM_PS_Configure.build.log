@@ -1,0 +1,8 @@
+23:58:57 **** Incremental Build of configuration Debug for project CAM_PS_Configure ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+
+23:58:57 Build Finished (took 208ms)
+

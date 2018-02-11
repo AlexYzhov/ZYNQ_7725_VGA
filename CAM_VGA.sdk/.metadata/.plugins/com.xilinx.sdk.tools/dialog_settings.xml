@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="false" key="CAM_PS_Configure_wrapper_hw_platform_0-verifyFlash"/>
+	<item value="CAM_PS_Configure_wrapper_hw_platform_0" key="programflash.hwplatform"/>
+	<item value="Local" key="CAM_PS_Configure_wrapper_hw_platform_0-target"/>
+	<item value="" key="CAM_PS_Configure_wrapper_hw_platform_0-offSet"/>
+	<item value="Auto Detect" key="CAM_PS_Configure_wrapper_hw_platform_0-device"/>
+	<item value="E:\Proj_ZYNQ\CAM_VGA\CAM_VGA.sdk\FSBL\Debug\FSBL.elf" key="CAM_PS_Configure_wrapper_hw_platform_0-fsblFile"/>
+	<item value="false" key="CAM_PS_Configure_wrapper_hw_platform_0-blankCheck"/>
+	<item value="E:\Proj_ZYNQ\CAM_VGA\CAM_VGA.sdk\CAM_PS_Configure\bootimage\BOOT.mcs" key="CAM_PS_Configure_wrapper_hw_platform_0-imgFile"/>
+	<item value="qspi_single" key="CAM_PS_Configure_wrapper_hw_platform_0-flashType"/>
+</section>

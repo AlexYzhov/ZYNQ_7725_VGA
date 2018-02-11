@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = MCS
+the_ROM_image:
+{
+	[bootloader]E:\Proj_ZYNQ\CAM_VGA\CAM_VGA.sdk\FSBL\Debug\FSBL.elf
+	E:\Proj_ZYNQ\CAM_VGA\CAM_VGA.sdk\CAM_PS_Configure_wrapper_hw_platform_0\CAM_PS_Configure_wrapper.bit
+	E:\Proj_ZYNQ\CAM_VGA\CAM_VGA.sdk\CAM_PS_Configure\Debug\CAM_PS_Configure.elf
+}
